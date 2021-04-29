@@ -23,7 +23,7 @@ import com.example.appmovie.ui.movie.adapters.MovieAdapter
 import com.example.appmovie.ui.movie.adapters.concat.PopularConcatAdapter
 import com.example.appmovie.ui.movie.adapters.concat.TopRatedConcatAdapter
 import com.example.appmovie.ui.movie.adapters.concat.UpcomingConcatAdapter
-//HOLI23
+//ulyegciygbcuhyl2luh2
 class MovieFragment : Fragment(R.layout.fragment_movie), MovieAdapter.OnMovieClickListener {
 
     private lateinit var binding: FragmentMovieBinding
